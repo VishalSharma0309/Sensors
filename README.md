@@ -40,7 +40,7 @@
 
 
 ## Arduino IDE installation for Linux 
-Warning: DON'T USE 'sudo apt-get install arduino'
+Warning: DON'T USE 'sudo apt-get install arduino'.
 Follow the steps mentioned here: https://www.arduino.cc/en/Guide/Linux 
 
 Some important steps to remember:
