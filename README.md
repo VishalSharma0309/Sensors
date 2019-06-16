@@ -38,3 +38,12 @@
 
 1. Time library
 
+
+## Arduino IDE installation for Linux 
+Warning: DON'T USE 'sudo apt-get install arduino'
+Follow the steps mentioned here: https://www.arduino.cc/en/Guide/Linux 
+
+Some important steps to remember:
+1. Run 'arduino-linux-setup.sh'.
+2. Reboot system.
+3. Run 'install.sh'.
