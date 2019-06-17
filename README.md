@@ -54,10 +54,10 @@
 ## Arduino IDE installation for Linux 
 Warning: DON'T USE > sudo apt-get install arduino
 <br>Follow the steps mentioned here: <br>
->https://www.arduino.cc/en/Guide/Linux<
+>https://www.arduino.cc/en/Guide/Linux
 
 <br>
 Some important steps to remember:
-1. Run 'arduino-linux-setup.sh'.
-2. Reboot system.
-3. Run 'install.sh'.
+<br>1. Run 'arduino-linux-setup.sh'.
+<br>2. Reboot system.
+<br>3. Run 'install.sh'.
