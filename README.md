@@ -1,13 +1,17 @@
 # Sensors
 
 1. Gravity BME 680
+  
   1.1 Parameters calculated: 
+  
   1.2 Library (Arduino IDE):  <br>
   >https://github.com/DFRobot/DFRobot_BME680<  
+  
   1.3 Datasheet: <br>
   >https://media.digikey.com/pdf/Data%20Sheets/DFRobot%20PDFs/SEN0248_Web.pdf 
   
 2. CJMCU 8128 (integrated sensor)
+    
     2.1 Bosch BMP 280
       
       2.1.1 Parameters caluculated:
@@ -68,7 +72,9 @@
 
 
 ## Arduino IDE installation for Linux 
-Warning: DON'T USE > sudo apt-get install arduino
+Warning: DON'T USE 
+`sudo apt-get install arduino`
+
 <br>Follow the steps mentioned here: <br>
 >https://www.arduino.cc/en/Guide/Linux
 
