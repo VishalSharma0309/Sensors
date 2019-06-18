@@ -9,20 +9,29 @@
   
 2. CJMCU 8128 (integrated sensor)
     2.1 Bosch BMP 280
+      
       2.1.1 Parameters caluculated:
+      
       2.2.2 Library (Arduino IDE):  <br> 
       >https://github.com/adafruit/Adafruit_BMP280_Library
+      
       2.2.3 Datasheet:    <br>
       >https://cdn-shop.adafruit.com/datasheets/BST-BMP280-DS001-11.pdf      
+     
      2.2 T.I. HDC 1080
+      
       2.2.1 Parameters calculated:
+      
       2.2.2 Library (Arduino IDE):  <br> 
       >https://github.com/closedcube/ClosedCube_HDC1080_Arduino  
+      
       2.2.3 Datasheet:  <br>
       >http://www.ti.com/lit/ds/symlink/hdc1080.pdf
       
      2.3 AMS CCS811
+      
       2.3.1 Parameters calculated:
+      
       2.3.2 Library (Arduino IDE):  <br> 
       >https://github.com/adafruit/Adafruit_CCS811
                      <br>        
@@ -33,16 +42,22 @@
       
       
 3. Grove SPG 30
+  
   3.1 Parameters calculated:
+  
   3.2 Library (Arduino IDE):  <br> 
   >https://github.com/Seeed-Studio/SGP30_Gas_Sensor
       <br>
   >https://github.com/adafruit/Adafruit_SGP30
+  
   3.3 Datasheet:
   
 4. Grove LDR
+  
   4.1 Parameters calculated:
+  
   4.2 Library (Arduino IDE):
+  
   4.3 Datasheet:
   
   
@@ -59,6 +74,11 @@ Warning: DON'T USE > sudo apt-get install arduino
 
 <br>
 Some important steps to remember: <br>
-1. Run `sudo bash arduino-linux-setup.sh`.
+
+1. Run 
+`sudo bash arduino-linux-setup.sh`
+
 2. Reboot system.
-3. Run `sudo bash install.sh`.
+
+3. Run 
+`sudo bash install.sh`
