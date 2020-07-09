@@ -1,0 +1,1484 @@
+reception
+o=524.90mV, DustDensity=23.43ug/m3
+Temperature = 30.25°C
+   Pressure = 970.33 hPa
+   Humidity = 32.39%
+        Gas = 15396R
+
+Air Quality = 26.1% derived from 25% of Humidity reading and 75% of Gas reading - 100% is good quality air
+Humidity element was : 0.20 of 0.25
+     Gas element was : 0.06 of 0.75
+***** Poor air quality *****
+
+369.43Air quality is Hazardous
+------------------------------------------------
+bhaskar is
+16042.00
+NO2
+3
+SO2
+2
+Air quality is Hazardous
+ERROR: Invalid requestDate must be in ISO-8601 'basic format'. Got 'TZ'. See http://en.wikipedia.org/wiki/ISO_8601
+Vo=439.40mV, DustDensity=6.33ug/m3
+Temperature = 30.56°C
+   Pressure = 970.33 hPa
+   Humidity = 31.84%
+        Gas = 17086R
+
+Air Quality = 25.6% derived from 25% of Humidity reading and 75% of Gas reading - 100% is good quality air
+Humidity element was : 0.20 of 0.25
+     Gas element was : 0.06 of 0.75
+***** Poor air quality *****
+
+371.77Air quality is Hazardous
+------------------------------------------------
+bhaskar is
+17840.00
+NO2
+3
+SO2
+2
+Air quality is Hazardous
+ERROR: Invalid requestDate must be in ISO-8601 'basic format'. Got 'TZ'. See http://en.wikipedia.org/wiki/ISO_8601
+Vo=423.39mV, DustDensity=3.12ug/m3
+Temperature = 30.79°C
+   Pressure = 970.35 hPa
+   Humidity = 30.78%
+        Gas = 18764R
+
+Air Quality = 25.0% derived from 25% of Humidity reading and 75% of Gas reading - 100% is good quality air
+Humidity element was : 0.19 of 0.25
+     Gas element was : 0.06 of 0.75
+***** Poor air quality *****
+
+374.86Air quality is Hazardous
+------------------------------------------------
+bhaskar is
+19568.00
+NO2
+4
+SO2
+2
+Air quality is Hazardous
+ERROR: Invalid requestDate must be in ISO-8601 'basic format'. Got 'TZ'. See http://en.wikipedia.org/wiki/ISO_8601
+Vo=1506.40mV, DustDensity=219.73ug/m3
+Temperature = 30.89°C
+   Pressure = 970.35 hPa
+   Humidity = 30.05%
+        Gas = 20604R
+
+Air Quality = 24.6% derived from 25% of Humidity reading and 75% of Gas reading - 100% is good quality air
+Humidity element was : 0.19 of 0.25
+     Gas element was : 0.06 of 0.75
+***** Poor air quality *****
+
+377.12Air quality is Hazardous
+------------------------------------------------
+bhaskar is
+21445.00
+NO2
+4
+SO2
+2
+Air quality is Hazardous
+ERROR: Invalid requestDate must be in ISO-8601 'basic format'. Got 'TZ'. See http://en.wikipedia.org/wiki/ISO_8601
+Vo=521.00mV, DustDensity=22.65ug/m3
+Temperature = 30.98°C
+   Pressure = 970.33 hPa
+   Humidity = 29.93%
+        Gas = 22215R
+
+Air Quality = 24.5% derived from 25% of Humidity reading and 75% of Gas reading - 100% is good quality air
+Humidity element was : 0.19 of 0.25
+     Gas element was : 0.06 of 0.75
+***** Poor air quality *****
+
+Getting a new gas reference value
+377.43Air quality is Hazardous
+------------------------------------------------
+bhaskar is
+29016.00
+NO2
+6
+SO2
+3
+Air quality is Hazardous
+ERROR: Invalid requestDate must be in ISO-8601 'basic format'. Got 'TZ'. See http://en.wikipedia.org/wiki/ISO_8601
+Vo=421.63mV, DustDensity=2.77ug/m3
+Temperature = 31.35°C
+   Pressure = 970.31 hPa
+   Humidity = 30.46%
+        Gas = 26411R
+
+Air Quality = 64.2% derived from 25% of Humidity reading and 75% of Gas reading - 100% is good quality air
+Humidity element was : 0.19 of 0.25
+     Gas element was : 0.45 of 0.75
+***** Poor air quality *****
+
+178.93Air quality is Unhealthy
+------------------------------------------------
+bhaskar is
+26815.00
+NO2
+5
+SO2
+3
+Air quality is Unhealthy
+ERROR: Invalid requestDate must be in ISO-8601 'basic format'. Got 'TZ'. See http://en.wikipedia.org/wiki/ISO_8601
+Vo=451.07mV, DustDensity=8.66ug/m3
+Temperature = 31.17°C
+   Pressure = 970.33 hPa
+   Humidity = 29.62%
+        Gas = 27039R
+
+Air Quality = 63.7% derived from 25% of Humidity reading and 75% of Gas reading - 100% is good quality air
+Humidity element was : 0.18 of 0.25
+     Gas element was : 0.45 of 0.75
+***** Poor air quality *****
+
+181.73Air quality is Unhealthy
+------------------------------------------------
+bhaskar is
+27863.00
+NO2
+5
+SO2
+3
+Air quality is Unhealthy
+ERROR: Invalid requestDate must be in ISO-8601 'basic format'. Got 'TZ'. See http://en.wikipedia.org/wiki/ISO_8601
+Vo=444.63mV, DustDensity=7.37ug/m3
+Temperature = 30.97°C
+   Pressure = 970.31 hPa
+   Humidity = 29.91%
+        Gas = 28012R
+
+Air Quality = 63.8% derived from 25% of Humidity reading and 75% of Gas reading - 100% is good quality air
+Humidity element was : 0.19 of 0.25
+     Gas element was : 0.45 of 0.75
+***** Poor air quality *****
+
+180.81Air quality is Unhealthy
+------------------------------------------------
+bhaskar is
+28563.00
+NO2
+5
+SO2
+3
+Air quality is Unhealthy
+ERROR: Invalid requestDate must be in ISO-8601 'basic format'. Got 'TZ'. See http://en.wikipedia.org/wiki/ISO_8601
+Vo=441.85mV, DustDensity=6.82ug/m3
+Temperature = 31.00°C
+   Pressure = 970.33 hPa
+   Humidity = 29.47%
+        Gas = 29238R
+
+Air Quality = 63.6% derived from 25% of Humidity reading and 75% of Gas reading - 100% is good quality air
+Humidity element was : 0.18 of 0.25
+     Gas element was : 0.45 of 0.75
+***** Poor air quality *****
+
+182.19Air quality is Unhealthy
+------------------------------------------------
+bhaskar is
+30225.00
+NO2
+6
+SO2
+3
+Air quality is Unhealthy
+ERROR: Invalid requestDate must be in ISO-8601 'basic format'. Got 'TZ'. See http://en.wikipedia.org/wiki/ISO_8601
+Vo=447.41mV, DustDensity=7.93ug/m3
+Temperature = 30.59°C
+   Pressure = 970.31 hPa
+   Humidity = 29.93%
+        Gas = 30846R
+
+Air Quality = 63.9% derived from 25% of Humidity reading and 75% of Gas reading - 100% is good quality air
+Humidity element was : 0.19 of 0.25
+     Gas element was : 0.45 of 0.75
+***** Poor air quality *****
+
+180.64Air quality is Unhealthy
+------------------------------------------------
+bhaskar is
+31801.00
+NO2
+6
+SO2
+4
+Air quality is Unhealthy
+ERROR: Invalid requestDate must be in ISO-8601 'basic format'. Got 'TZ'. See http://en.wikipedia.org/wiki/ISO_8601
+Vo=426.07mV, DustDensity=3.66ug/m3
+Temperature = 30.01°C
+   Pressure = 970.33 hPa
+   Humidity = 30.54%
+        Gas = 32489R
+
+Air Quality = 64.2% derived from 25% of Humidity reading and 75% of Gas reading - 100% is good quality air
+Humidity element was : 0.19 of 0.25
+     Gas element was : 0.45 of 0.75
+***** Poor air quality *****
+
+178.81Air quality is Unhealthy
+------------------------------------------------
+bhaskar is
+33339.00
+NO2
+7
+SO2
+4
+Air quality is Unhealthy
+ERROR: Invalid requestDate must be in ISO-8601 'basic format'. Got 'TZ'. See http://en.wikipedia.org/wiki/ISO_8601
+Vo=438.23mV, DustDensity=6.09ug/m3
+Temperature = 30.13°C
+   Pressure = 970.31 hPa
+   Humidity = 30.50%
+        Gas = 33445R
+
+Air Quality = 64.2% derived from 25% of Humidity reading and 75% of Gas reading - 100% is good quality air
+Humidity element was : 0.19 of 0.25
+     Gas element was : 0.45 of 0.75
+***** Poor air quality *****
+
+178.90Air quality is Unhealthy
+------------------------------------------------
+bhaskar is
+34095.00
+NO2
+7
+SO2
+4
+Air quality is Unhealthy
+ERROR: Invalid requestDate must be in ISO-8601 'basic format'. Got 'TZ'. See http://en.wikipedia.org/wiki/ISO_8601
+Vo=426.51mV, DustDensity=3.75ug/m3
+Temperature = 30.31°C
+   Pressure = 970.39 hPa
+   Humidity = 31.02%
+        Gas = 34290R
+
+Air Quality = 64.5% derived from 25% of Humidity reading and 75% of Gas reading - 100% is good quality air
+Humidity element was : 0.19 of 0.25
+     Gas element was : 0.45 of 0.75
+***** Poor air quality *****
+
+177.39Air quality is Unhealthy
+------------------------------------------------
+bhaskar is
+34858.00
+NO2
+7
+SO2
+4
+Air quality is Unhealthy
+ERROR: Invalid requestDate must be in ISO-8601 'basic format'. Got 'TZ'. See http://en.wikipedia.org/wiki/ISO_8601
+Vo=416.75mV, DustDensity=1.80ug/m3
+Temperature = 30.51°C
+   Pressure = 970.37 hPa
+   Humidity = 30.27%
+        Gas = 35237R
+
+Air Quality = 64.1% derived from 25% of Humidity reading and 75% of Gas reading - 100% is good quality air
+Humidity element was : 0.19 of 0.25
+     Gas element was : 0.45 of 0.75
+***** Poor air quality *****
+
+179.71Air quality is Unhealthy
+------------------------------------------------
+bhaskar is
+35929.00
+NO2
+7
+SO2
+4
+Air quality is Unhealthy
+ERROR: Invalid requestDate must be in ISO-8601 'basic format'. Got 'TZ'. See http://en.wikipedia.org/wiki/ISO_8601
+Vo=458.64mV, DustDensity=10.18ug/m3
+Temperature = 30.87°C
+   Pressure = 970.37 hPa
+   Humidity = 30.88%
+        Gas = 35475R
+
+Air Quality = 64.4% derived from 25% of Humidity reading and 75% of Gas reading - 100% is good quality air
+Humidity element was : 0.19 of 0.25
+     Gas element was : 0.45 of 0.75
+***** Poor air quality *****
+
+Getting a new gas reference value
+177.92Air quality is Unhealthy
+------------------------------------------------
+bhaskar is
+43464.00
+NO2
+9
+SO2
+5
+Air quality is Unhealthy
+ERROR: Invalid requestDate must be in ISO-8601 'basic format'. Got 'TZ'. See http://en.wikipedia.org/wiki/ISO_8601
+Vo=440.58mV, DustDensity=6.56ug/m3
+Temperature = 31.63°C
+   Pressure = 970.35 hPa
+   Humidity = 29.16%
+        Gas = 39767R
+
+Air Quality = 93.2% derived from 25% of Humidity reading and 75% of Gas reading - 100% is good quality air
+Humidity element was : 0.18 of 0.25
+     Gas element was : 0.75 of 0.75
+***** Poor air quality *****
+
+34.16Air quality is Good
+------------------------------------------------
+bhaskar is
+39918.00
+NO2
+8
+SO2
+5
+Air quality is Good
+ERROR: Invalid requestDate must be in ISO-8601 'basic format'. Got 'TZ'. See http://en.wikipedia.org/wiki/ISO_8601
+Vo=465.67mV, DustDensity=11.58ug/m3
+Temperature = 31.60°C
+   Pressure = 970.35 hPa
+   Humidity = 29.26%
+        Gas = 38388R
+
+Air Quality = 93.2% derived from 25% of Humidity reading and 75% of Gas reading - 100% is good quality air
+Humidity element was : 0.18 of 0.25
+     Gas element was : 0.75 of 0.75
+***** Poor air quality *****
+
+33.84Air quality is Good
+------------------------------------------------
+bhaskar is
+38670.00
+NO2
+8
+SO2
+5
+Air quality is Good
+ERROR: Invalid requestDate must be in ISO-8601 'basic format'. Got 'TZ'. See http://en.wikipedia.org/wiki/ISO_8601
+Vo=433.11mV, DustDensity=5.07ug/m3
+Temperature = 31.69°C
+   Pressure = 970.35 hPa
+   Humidity = 29.95%
+        Gas = 37365R
+
+Air Quality = 93.7% derived from 25% of Humidity reading and 75% of Gas reading - 100% is good quality air
+Humidity element was : 0.19 of 0.25
+     Gas element was : 0.75 of 0.75
+***** Poor air quality *****
+
+31.64Air quality is Good
+------------------------------------------------
+bhaskar is
+38458.00
+NO2
+8
+SO2
+4
+Air quality is Good
+ERROR: Invalid requestDate must be in ISO-8601 'basic format'. Got 'TZ'. See http://en.wikipedia.org/wiki/ISO_8601
+Vo=427.00mV, DustDensity=3.85ug/m3
+Temperature = 31.66°C
+   Pressure = 970.35 hPa
+   Humidity = 29.32%
+        Gas = 38110R
+
+Air Quality = 93.3% derived from 25% of Humidity reading and 75% of Gas reading - 100% is good quality air
+Humidity element was : 0.18 of 0.25
+     Gas element was : 0.75 of 0.75
+***** Poor air quality *****
+
+33.57Air quality is Good
+------------------------------------------------
+bhaskar is
+38993.00
+NO2
+8
+SO2
+5
+Air quality is Good
+ERROR: Invalid requestDate must be in ISO-8601 'basic format'. Got 'TZ'. See http://en.wikipedia.org/wiki/ISO_8601
+Vo=455.27mV, DustDensity=9.50ug/m3
+Temperature = 31.84°C
+   Pressure = 970.37 hPa
+   Humidity = 29.01%
+        Gas = 38599R
+
+Air Quality = 93.1% derived from 25% of Humidity reading and 75% of Gas reading - 100% is good quality air
+Humidity element was : 0.18 of 0.25
+     Gas element was : 0.75 of 0.75
+***** Poor air quality *****
+
+34.67Air quality is Good
+------------------------------------------------
+bhaskar is
+39174.00
+NO2
+8
+SO2
+5
+Air quality is Good
+ERROR: Invalid requestDate must be in ISO-8601 'basic format'. Got 'TZ'. See http://en.wikipedia.org/wiki/ISO_8601
+Vo=441.21mV, DustDensity=6.69ug/m3
+Temperature = 31.94°C
+   Pressure = 970.35 hPa
+   Humidity = 28.71%
+        Gas = 38564R
+
+Air Quality = 93.0% derived from 25% of Humidity reading and 75% of Gas reading - 100% is good quality air
+Humidity element was : 0.18 of 0.25
+     Gas element was : 0.75 of 0.75
+***** Poor air quality *****
+
+35.24Air quality is Good
+------------------------------------------------
+bhaskar is
+39431.00
+NO2
+8
+SO2
+5
+Air quality is Good
+ERROR: Invalid requestDate must be in ISO-8601 'basic format'. Got 'TZ'. See http://en.wikipedia.org/wiki/ISO_8601
+Vo=439.11mV, DustDensity=6.27ug/m3
+Temperature = 32.08°C
+   Pressure = 970.3
+
+
+
+1st room A
+Vo=431.10mV, DustDensity=6.82ug/m3
+Temperature = 27.78°C
+   Pressure = 970.26 hPa
+   Humidity = 36.14%
+        Gas = 47486R
+
+Air Quality = 97.5% derived from 25% of Humidity reading and 75% of Gas reading - 100% is good quality air
+Humidity element was : 0.23 of 0.25
+     Gas element was : 0.75 of 0.75
+***** Poor air quality *****
+
+12.48Air quality is Good
+------------------------------------------------
+bhaskar is
+47756.00
+NO2
+10
+SO2
+6
+Air quality is Good
+ERROR: Problem parsing http response of PutItem
+Vo=413.13mV, DustDensity=3.22ug/m3
+Temperature = 28.36°C
+   Pressure = 970.27 hPa
+   Humidity = 34.53%
+        Gas = 47115R
+
+Air Quality = 96.5% derived from 25% of Humidity reading and 75% of Gas reading - 100% is good quality air
+Humidity element was : 0.22 of 0.25
+     Gas element was : 0.75 of 0.75
+***** Poor air quality *****
+
+17.50Air quality is Good
+------------------------------------------------
+bhaskar is
+47594.00
+NO2
+9
+SO2
+6
+Air quality is Good
+ERROR: Invalid requestDate must be in ISO-8601 'basic format'. Got 'TZ'. See http://en.wikipedia.org/wiki/ISO_8601
+Vo=411.62mV, DustDensity=2.92ug/m3
+Temperature = 28.69°C
+   Pressure = 970.26 hPa
+   Humidity = 33.42%
+        Gas = 48924R
+
+Air Quality = 95.9% derived from 25% of Humidity reading and 75% of Gas reading - 100% is good quality air
+Humidity element was : 0.21 of 0.25
+     Gas element was : 0.75 of 0.75
+***** Poor air quality *****
+
+20.64Air quality is Good
+------------------------------------------------
+bhaskar is
+49354.00
+NO2
+10
+SO2
+6
+Air quality is Good
+
+Room 1 B
+Vo=414.89mV, DustDensity=3.57ug/m3
+Temperature = 29.12°C
+   Pressure = 970.20 hPa
+   Humidity = 32.46%
+        Gas = 52433R
+
+Air Quality = 95.3% derived from 25% of Humidity reading and 75% of Gas reading - 100% is good quality air
+Humidity element was : 0.20 of 0.25
+     Gas element was : 0.75 of 0.75
+***** Poor air quality *****
+
+23.70Air quality is Good
+------------------------------------------------
+bhaskar is
+52795.00
+NO2
+11
+SO2
+6
+Air quality is Good
+ERROR: Invalid requestDate must be in ISO-8601 'basic format'. Got 'TZ'. See http://en.wikipedia.org/wiki/ISO_8601
+Vo=403.12mV, DustDensity=1.22ug/m3
+Temperature = 28.89°C
+   Pressure = 970.22 hPa
+   Humidity = 33.18%
+        Gas = 53569R
+
+Air Quality = 95.7% derived from 25% of Humidity reading and 75% of Gas reading - 100% is good quality air
+Humidity element was : 0.21 of 0.25
+     Gas element was : 0.75 of 0.75
+***** Poor air quality *****
+
+Getting a new gas reference value
+21.49Air quality is Good
+------------------------------------------------
+bhaskar is
+66023.00
+NO2
+13
+SO2
+8
+Air quality is Good
+ERROR: Invalid requestDate must be in ISO-8601 'basic format'. Got 'TZ'. See http://en.wikipedia.org/wiki/ISO_8601
+Vo=409.23mV, DustDensity=2.44ug/m3
+Temperature = 29.66°C
+   Pressure = 970.16 hPa
+   Humidity = 31.56%
+        Gas = 61982R
+
+Air Quality = 94.7% derived from 25% of Humidity reading and 75% of Gas reading - 100% is good quality air
+Humidity element was : 0.20 of 0.25
+     Gas element was : 0.75 of 0.75
+***** Poor air quality *****
+
+26.56Air quality is Good
+------------------------------------------------
+bhaskar is
+60249.00
+NO2
+12
+SO2
+7
+Air quality is Good
+ERROR: Invalid requestDate must be in ISO-8601 'basic format'. Got 'TZ'. See http://en.wikipedia.org/wiki/ISO_8601
+Vo=409.18mV, DustDensity=2.43ug/m3
+Temperature = 29.52°C
+   Pressure = 970.20 hPa
+   Humidity = 32.16%
+        Gas = 58489R
+
+Air Quality = 95.2% derived from 25% of Humidity reading and 75% of Gas reading - 100% is good quality air
+Humidity element was : 0.20 of 0.25
+     Gas element was : 0.75 of 0.75
+***** Poor air quality *****
+
+23.96Air quality is Good
+------------------------------------------------
+bhaskar is
+57450.00
+NO2
+12
+SO2
+7
+Air quality is Good
+ERROR: Invalid requestDate must be in ISO-8601 'basic format'. Got 'TZ'. See http://en.wikipedia.org/wiki/ISO_8601
+Vo=436.08mV, DustDensity=7.81ug/m3
+Temperature = 29.52°C
+   Pressure = 970.18 hPa
+   Humidity = 34.59%
+        Gas = 57568R
+
+Air Quality = 96.6% derived from 25% of Humidity reading and 75% of Gas reading - 100% is good quality air
+Humidity element was : 0.22 of 0.25
+     Gas element was : 0.75 of 0.75
+***** Poor air quality *****
+
+17.20Air quality is Good
+
+room 1 c
+ERROR: Invalid requestDate must be in ISO-8601 'basic format'. Got 'TZ'. See http://en.wikipedia.org/wiki/ISO_8601
+Vo=442.24mV, DustDensity=10.69ug/m3
+Temperature = 28.83°C
+   Pressure = 970.20 hPa
+   Humidity = 33.41%
+        Gas = 65304R
+
+Air Quality = 95.8% derived from 25% of Humidity reading and 75% of Gas reading - 100% is good quality air
+Humidity element was : 0.21 of 0.25
+     Gas element was : 0.75 of 0.75
+***** Poor air quality *****
+
+20.87Air quality is Good
+------------------------------------------------
+bhaskar is
+65355.00
+NO2
+13
+SO2
+8
+Air quality is Good
+ERROR: Problem parsing http response of PutItem
+Vo=400.88mV, DustDensity=2.42ug/m3
+Temperature = 28.40°C
+   Pressure = 970.16 hPa
+   Humidity = 33.30%
+        Gas = 68665R
+
+Air Quality = 95.8% derived from 25% of Humidity reading and 75% of Gas reading - 100% is good quality air
+Humidity element was : 0.21 of 0.25
+     Gas element was : 0.75 of 0.75
+***** Poor air quality *****
+
+21.06Air quality is Good
+------------------------------------------------
+bhaskar is
+68109.00
+NO2
+14
+SO2
+8
+Air quality is Good
+ERROR: Invalid requestDate must be in ISO-8601 'basic format'. Got 'TZ'. See http://en.wikipedia.org/wiki/ISO_8601
+Vo=412.70mV, DustDensity=4.79ug/m3
+Temperature = 28.23°C
+   Pressure = 970.14 hPa
+   Humidity = 33.89%
+        Gas = 71528R
+
+Air Quality = 96.2% derived from 25% of Humidity reading and 75% of Gas reading - 100% is good quality air
+Humidity element was : 0.21 of 0.25
+     Gas element was : 0.75 of 0.75
+***** Poor air quality *****
+
+18.98Air quality is Good
+------------------------------------------------
+bhaskar is
+70155.00
+NO2
+14
+SO2
+9
+Air quality is Good
+ERROR: Invalid requestDate must be in ISO-8601 'basic format'. Got 'TZ'. See http://en.wikipedia.org/wiki/ISO_8601
+
+room 2 a
+ERROR: Invalid requestDate must be in ISO-8601 'basic format'. Got 'TZ'. See http://en.wikipedia.org/wiki/ISO_8601
+Vo=399.61mV, DustDensity=2.17ug/m3
+Temperature = 27.94°C
+   Pressure = 970.14 hPa
+   Humidity = 34.33%
+        Gas = 95283R
+
+Air Quality = 96.4% derived from 25% of Humidity reading and 75% of Gas reading - 100% is good quality air
+Humidity element was : 0.21 of 0.25
+     Gas element was : 0.75 of 0.75
+***** Poor air quality *****
+
+17.92Air quality is Good
+------------------------------------------------
+bhaskar is
+92555.00
+NO2
+19
+SO2
+12
+Air quality is Good
+ERROR: Invalid requestDate must be in ISO-8601 'basic format'. Got 'TZ'. See http://en.wikipedia.org/wiki/ISO_8601
+Vo=418.51mV, DustDensity=5.95ug/m3
+Temperature = 28.25°C
+   Pressure = 970.12 hPa
+   Humidity = 33.76%
+        Gas = 96958R
+
+Air Quality = 96.1% derived from 25% of Humidity reading and 75% of Gas reading - 100% is good quality air
+Humidity element was : 0.21 of 0.25
+     Gas element was : 0.75 of 0.75
+***** Poor air quality *****
+
+19.65Air quality is Good
+------------------------------------------------
+bhaskar is
+94293.00
+NO2
+19
+SO2
+12
+Air quality is Good
+ERROR: Invalid requestDate must be in ISO-8601 'basic format'. Got 'TZ'. See http://en.wikipedia.org/wiki/ISO_8601
+Vo=430.37mV, DustDensity=8.32ug/m3
+Temperature = 28.51°C
+   Pressure = 970.12 hPa
+   Humidity = 33.50%
+        Gas = 99482R
+
+Air Quality = 95.9% derived from 25% of Humidity reading and 75% of Gas reading - 100% is good quality air
+Humidity element was : 0.21 of 0.25
+     Gas element was : 0.75 of 0.75
+***** Poor air quality *****
+
+20.35Air quality is Good
+------------------------------------------------
+bhaskar is
+96568.00
+NO2
+20
+SO2
+12
+Air quality is Good
+ERROR: Invalid requestDate must be in ISO-8601 'basic format'. Got 'TZ'. See http://en.wikipedia.org/wiki/ISO_8601
+Vo=437.21mV, DustDensity=9.69ug/m3
+Temperature = 28.67°C
+   Pressure = 970.10 hPa
+   Humidity = 33.22%
+        Gas = 103144R
+
+Air Quality = 95.8% derived from 25% of Humidity reading and 75% of Gas reading - 100% is good quality air
+Humidity element was : 0.21 of 0.25
+     Gas element was : 0.75 of 0.75
+***** Poor air quality *****
+
+21.22Air quality is Good
+------------------------------------------------
+bhaskar is
+99659.00
+NO2
+20
+SO2
+12
+Air quality is Good
+
+2.b
+
+ERROR: Invalid requestDate must be in ISO-8601 'basic format'. Got 'TZ'. See http://en.wikipedia.org/wiki/ISO_8601
+Vo=406.30mV, DustDensity=3.51ug/m3
+Temperature = 29.08°C
+   Pressure = 970.12 hPa
+   Humidity = 33.27%
+        Gas = 122362R
+
+Air Quality = 95.7% derived from 25% of Humidity reading and 75% of Gas reading - 100% is good quality air
+Humidity element was : 0.21 of 0.25
+     Gas element was : 0.75 of 0.75
+
+21.26Air quality is Good
+------------------------------------------------
+bhaskar is
+117079.00
+NO2
+24
+SO2
+15
+Air quality is Good
+ERROR: Invalid requestDate must be in ISO-8601 'basic format'. Got 'TZ'. See http://en.wikipedia.org/wiki/ISO_8601
+Vo=425.44mV, DustDensity=7.33ug/m3
+Temperature = 29.05°C
+   Pressure = 970.16 hPa
+   Humidity = 32.36%
+        Gas = 122540R
+
+Air Quality = 95.2% derived from 25% of Humidity reading and 75% of Gas reading - 100% is good quality air
+Humidity element was : 0.20 of 0.25
+     Gas element was : 0.75 of 0.75
+
+24.00Air quality is Good
+------------------------------------------------
+bhaskar is
+118398.00
+NO2
+24
+SO2
+15
+Air quality is Good
+ERROR: Invalid requestDate must be in ISO-8601 'basic format'. Got 'TZ'. See http://en.wikipedia.org/wiki/ISO_8601
+Vo=429.05mV, DustDensity=8.06ug/m3
+Temperature = 29.26°C
+   Pressure = 970.16 hPa
+   Humidity = 31.90%
+        Gas = 123078R
+
+Air Quality = 94.9% derived from 25% of Humidity reading and 75% of Gas reading - 100% is good quality air
+Humidity element was : 0.20 of 0.25
+     Gas element was : 0.75 of 0.75
+
+25.37Air quality is Good
+------------------------------------------------
+bhaskar is
+119577.00
+NO2
+25
+SO2
+15
+Air quality is Good
+ 
+
+2.c
+
+ERROR: Invalid requestDate must be in ISO-8601 'basic format'. Got 'TZ'. See http://en.wikipedia.org/wiki/ISO_8601
+Vo=416.89mV, DustDensity=5.62ug/m3
+Temperature = 29.10°C
+   Pressure = 970.14 hPa
+   Humidity = 34.77%
+        Gas = 130837R
+
+Air Quality = 96.7% derived from 25% of Humidity reading and 75% of Gas reading - 100% is good quality air
+Humidity element was : 0.22 of 0.25
+     Gas element was : 0.75 of 0.75
+
+16.65Air quality is Good
+------------------------------------------------
+bhaskar is
+126031.00
+NO2
+26
+SO2
+16
+Air quality is Good
+ERROR: Invalid requestDate must be in ISO-8601 'basic format'. Got 'TZ'. See http://en.wikipedia.org/wiki/ISO_8601
+Vo=414.55mV, DustDensity=5.16ug/m3
+Temperature = 28.99°C
+   Pressure = 970.12 hPa
+   Humidity = 33.31%
+        Gas = 133010R
+
+Air Quality = 95.8% derived from 25% of Humidity reading and 75% of Gas reading - 100% is good quality air
+Humidity element was : 0.21 of 0.25
+     Gas element was : 0.75 of 0.75
+
+21.19Air quality is Good
+------------------------------------------------
+bhaskar is
+129526.00
+NO2
+27
+SO2
+16
+Air quality is Good
+ERROR: Invalid requestDate must be in ISO-8601 'basic format'. Got 'TZ'. See http://en.wikipedia.org/wiki/ISO_8601
+Vo=457.32mV, DustDensity=13.71ug/m3
+Temperature = 29.26°C
+   Pressure = 970.14 hPa
+   Humidity = 32.43%
+        Gas = 136134R
+
+Air Quality = 95.2% derived from 25% of Humidity reading and 75% of Gas reading - 100% is good quality air
+Humidity element was : 0.20 of 0.25
+     Gas element was : 0.75 of 0.75
+
+23.79Air quality is Good
+------------------------------------------------
+bhaskar is
+132278.00
+NO2
+27
+SO2
+17
+Air quality is Good
+
+
+
+
+3.A
+
+Vo=489.21mV, DustDensity=20.09ug/m3
+Temperature = 28.22°C
+   Pressure = 969.71 hPa
+   Humidity = 43.01%
+        Gas = 149179R
+
+Air Quality = 98.8% derived from 25% of Humidity reading and 75% of Gas reading - 100% is good quality air
+Humidity element was : 0.24 of 0.25
+     Gas element was : 0.75 of 0.75
+
+5.86Air quality is Good
+------------------------------------------------
+bhaskar is
+142842.00
+NO2
+29
+SO2
+18
+Air quality is Good
+ERROR: Invalid requestDate must be in ISO-8601 'basic format'. Got 'TZ'. See http://en.wikipedia.org/wiki/ISO_8601
+Vo=416.94mV, DustDensity=5.63ug/m3
+Temperature = 28.46°C
+   Pressure = 969.72 hPa
+   Humidity = 39.37%
+        Gas = 149179R
+
+Air Quality = 100.0% derived from 25% of Humidity reading and 75% of Gas reading - 100% is good quality air
+Humidity element was : 0.25 of 0.25
+     Gas element was : 0.75 of 0.75
+
+0.00Air quality is Good
+------------------------------------------------
+bhaskar is
+143574.00
+NO2
+30
+SO2
+18
+Air quality is Good
+ERROR: Invalid requestDate must be in ISO-8601 'basic format'. Got 'TZ'. See http://en.wikipedia.org/wiki/ISO_8601
+Vo=397.12mV, DustDensity=1.67ug/m3
+Temperature = 28.44°C
+   Pressure = 969.69 hPa
+   Humidity = 38.24%
+        Gas = 153399R
+
+Air Quality = 100.0% derived from 25% of Humidity reading and 75% of Gas reading - 100% is good quality air
+Humidity element was : 0.25 of 0.25
+     Gas element was : 0.75 of 0.75
+
+0.00Air quality is Good
+------------------------------------------------
+bhaskar is
+147478.00
+NO2
+30
+SO2
+19
+Air quality is Good
+ERROR: Invalid requestDate must be in ISO-8601 'basic format'. Got 'TZ'. See http://en.wikipedia.org/wiki/ISO_8601
+Vo=385.89mV, DustDensity=0.00ug/m3
+Temperature = 28.15°C
+   Pressure = 969.67 hPa
+   Humidity = 39.32%
+        Gas = 155816R
+
+Air Quality = 100.0% derived from 25% of Humidity reading and 75% of Gas reading - 100% is good quality air
+Humidity element was : 0.25 of 0.25
+     Gas element was : 0.75 of 0.75
+
+0.00Air quality is Good
+------------------------------------------------
+bhaskar is
+150112.00
+NO2
+31
+SO2
+19
+Air quality is Good
+
+3.B
+ERROR: Invalid requestDate must be in ISO-8601 'basic format'. Got 'TZ'. See http://en.wikipedia.org/wiki/ISO_8601
+Vo=409.96mV, DustDensity=4.81ug/m3
+Temperature = 27.02°C
+   Pressure = 969.67 hPa
+   Humidity = 41.55%
+        Gas = 168293R
+
+Air Quality = 100.0% derived from 25% of Humidity reading and 75% of Gas reading - 100% is good quality air
+Humidity element was : 0.25 of 0.25
+     Gas element was : 0.75 of 0.75
+
+0.00Air quality is Good
+------------------------------------------------
+bhaskar is
+161659.00
+NO2
+33
+SO2
+21
+Air quality is Good
+ERROR: Invalid requestDate must be in ISO-8601 'basic format'. Got 'TZ'. See http://en.wikipedia.org/wiki/ISO_8601
+Vo=412.06mV, DustDensity=5.23ug/m3
+Temperature = 26.83°C
+   Pressure = 969.67 hPa
+   Humidity = 41.63%
+        Gas = 167957R
+
+Air Quality = 100.0% derived from 25% of Humidity reading and 75% of Gas reading - 100% is good quality air
+Humidity element was : 0.25 of 0.25
+     Gas element was : 0.75 of 0.75
+
+0.00Air quality is Good
+------------------------------------------------
+bhaskar is
+161348.00
+NO2
+33
+SO2
+20
+Air quality is Good
+ERROR: Invalid requestDate must be in ISO-8601 'basic format'. Got 'TZ'. See http://en.wikipedia.org/wiki/ISO_8601
+Vo=418.99mV, DustDensity=6.62ug/m3
+Temperature = 26.63°C
+   Pressure = 969.67 hPa
+   Humidity = 41.99%
+        Gas = 169823R
+
+Air Quality = 100.0% derived from 25% of Humidity reading and 75% of Gas reading - 100% is good quality air
+Humidity element was : 0.25 of 0.25
+     Gas element was : 0.75 of 0.75
+
+0.00Air quality is Good
+------------------------------------------------
+bhaskar is
+163228.00
+NO2
+34
+SO2
+21
+Air quality is Good
+
+3.C
+ERROR: Invalid requestDate must be in ISO-8601 'basic format'. Got 'TZ'. See http://en.wikipedia.org/wiki/ISO_8601
+Vo=424.90mV, DustDensity=10.83ug/m3
+Temperature = 26.43°C
+   Pressure = 969.65 hPa
+   Humidity = 42.88%
+        Gas = 172436R
+
+Air Quality = 98.8% derived from 25% of Humidity reading and 75% of Gas reading - 100% is good quality air
+Humidity element was : 0.24 of 0.25
+     Gas element was : 0.75 of 0.75
+
+5.85Air quality is Good
+------------------------------------------------
+14:31:18.140 -> bhaskar is
+14:31:18.140 -> 164024.00
+14:31:18.140 -> NO2
+14:31:18.140 -> 34
+14:31:18.140 -> SO2
+14:31:18.140 -> 21
+14:31:18.140 -> Air quality is Good
+ERROR: Invalid requestDate must be in ISO-8601 'basic format'. Got 'TZ'. See http://en.wikipedia.org/wiki/ISO_8601
+Vo=458.94mV, DustDensity=17.64ug/m3
+Temperature = 26.94°C
+   Pressure = 969.69 hPa
+   Humidity = 41.65%
+        Gas = 172436R
+
+Air Quality = 100.0% derived from 25% of Humidity reading and 75% of Gas reading - 100% is good quality air
+Humidity element was : 0.25 of 0.25
+     Gas element was : 0.75 of 0.75
+
+0.00Air quality is Good
+------------------------------------------------
+bhaskar is
+165315.00
+NO2
+34
+SO2
+21
+Air quality is Good
+ERROR: Invalid requestDate must be in ISO-8601 'basic format'. Got 'TZ'. See http://en.wikipedia.org/wiki/ISO_8601
+Vo=434.91mV, DustDensity=12.83ug/m3
+Temperature = 27.37°C
+   Pressure = 969.69 hPa
+   Humidity = 41.24%
+        Gas = 172613R
+
+Air Quality = 100.0% derived from 25% of Humidity reading and 75% of Gas reading - 100% is good quality air
+Humidity element was : 0.25 of 0.25
+     Gas element was : 0.75 of 0.75
+
+0.00Air quality is Good
+------------------------------------------------
+bhaskar is
+165152.00
+NO2
+34
+SO2
+21
+Air quality is Good
+
+
+c2.A
+ERROR: Connection problem
+Vo=421.48mV, DustDensity=10.15ug/m3
+Temperature = 27.51°C
+   Pressure = 969.51 hPa
+   Humidity = 38.97%
+        Gas = 180780R
+
+Air Quality = 100.0% derived from 25% of Humidity reading and 75% of Gas reading - 100% is good quality air
+Humidity element was : 0.25 of 0.25
+     Gas element was : 0.75 of 0.75
+
+0.00Air quality is Good
+------------------------------------------------
+bhaskar is
+178477.00
+NO2
+37
+SO2
+23
+Air quality is Good
+ERROR: Connection problem
+Vo=390.97mV, DustDensity=4.04ug/m3
+Temperature = 27.31°C
+   Pressure = 969.53 hPa
+   Humidity = 38.08%
+        Gas = 185773R
+
+Air Quality = 100.0% derived from 25% of Humidity reading and 75% of Gas reading - 100% is good quality air
+Humidity element was : 0.25 of 0.25
+     Gas element was : 0.75 of 0.75
+
+0.00Air quality is Good
+------------------------------------------------
+bhaskar is
+182943.00
+NO2
+38
+SO2
+23
+Air quality is Good
+ERROR: Connection problem
+Vo=418.99mV, DustDensity=9.65ug/m3
+Temperature = 27.22°C
+   Pressure = 969.47 hPa
+   Humidity = 37.73%
+        Gas = 186707R
+
+Air Quality = 98.5% derived from 25% of Humidity reading and 75% of Gas reading - 100% is good quality air
+Humidity element was : 0.24 of 0.25
+     Gas element was : 0.75 of 0.75
+
+7.30Air quality is Good
+------------------------------------------------
+bhaskar is
+185160.00
+NO2
+38
+SO2
+24
+Air quality is Good
+
+4.A
+ERROR: Connection problem
+Vo=402.34mV, DustDensity=6.32ug/m3
+Temperature = 27.67°C
+   Pressure = 969.43 hPa
+   Humidity = 38.43%
+        Gas = 217118R
+
+Air Quality = 100.0% derived from 25% of Humidity reading and 75% of Gas reading - 100% is good quality air
+Humidity element was : 0.25 of 0.25
+     Gas element was : 0.75 of 0.75
+
+0.00Air quality is Good
+------------------------------------------------
+bhaskar is
+212103.00
+NO2
+44
+SO2
+27
+Air quality is Good
+ERROR: Invalid requestDate must be in ISO-8601 'basic format'. Got 'TZ'. See http://en.wikipedia.org/wiki/ISO_8601
+Vo=978.03mV, DustDensity=121.46ug/m3
+Temperature = 27.56°C
+   Pressure = 969.47 hPa
+   Humidity = 37.14%
+        Gas = 219133R
+
+Air Quality = 98.2% derived from 25% of Humidity reading and 75% of Gas reading - 100% is good quality air
+Humidity element was : 0.23 of 0.25
+     Gas element was : 0.75 of 0.75
+
+9.14Air quality is Good
+------------------------------------------------
+bhaskar is
+213335.00
+NO2
+44
+SO2
+27
+Air quality is Good
+ERROR: Invalid requestDate must be in ISO-8601 'basic format'. Got 'TZ'. See http://en.wikipedia.org/wiki/ISO_8601
+Vo=439.45mV, DustDensity=13.74ug/m3
+Temperature = 27.61°C
+   Pressure = 969.45 hPa
+   Humidity = 36.56%
+        Gas = 226180R
+
+Air Quality = 97.8% derived from 25% of Humidity reading and 75% of Gas reading - 100% is good quality air
+Humidity element was : 0.23 of 0.25
+     Gas element was : 0.75 of 0.75
+
+10.97Air quality is Good
+------------------------------------------------
+bhaskar is
+220448.00
+NO2
+46
+SO2
+28
+Air quality is Good
+
+4.B
+ERROR: Invalid requestDate must be in ISO-8601 'basic format'. Got 'TZ'. See http://en.wikipedia.org/wiki/ISO_8601
+Vo=412.79mV, DustDensity=8.41ug/m3
+Temperature = 27.71°C
+   Pressure = 969.43 hPa
+   Humidity = 37.24%
+        Gas = 218409R
+
+Air Quality = 98.2% derived from 25% of Humidity reading and 75% of Gas reading - 100% is good quality air
+Humidity element was : 0.23 of 0.25
+     Gas element was : 0.75 of 0.75
+
+8.82Air quality is Good
+------------------------------------------------
+bhaskar is
+212649.00
+NO2
+44
+SO2
+27
+Air quality is Good
+ERROR: Invalid requestDate must be in ISO-8601 'basic format'. Got 'TZ'. See http://en.wikipedia.org/wiki/ISO_8601
+Vo=419.97mV, DustDensity=9.84ug/m3
+Temperature = 27.85°C
+   Pressure = 969.43 hPa
+   Humidity = 36.85%
+        Gas = 224034R
+
+Air Quality = 98.0% derived from 25% of Humidity reading and 75% of Gas reading - 100% is good quality air
+Humidity element was : 0.23 of 0.25
+     Gas element was : 0.75 of 0.75
+
+9.98Air quality is Good
+------------------------------------------------
+bhaskar is
+214581.00
+NO2
+45
+SO2
+27
+Air quality is Good
+ERROR: Connection problem
+Vo=379.69mV, DustDensity=1.79ug/m3
+Temperature = 28.01°C
+   Pressure = 969.45 hPa
+   Humidity = 37.26%
+        Gas = 211020R
+
+Air Quality = 98.2% derived from 25% of Humidity reading and 75% of Gas reading - 100% is good quality air
+Humidity element was : 0.23 of 0.25
+     Gas element was : 0.75 of 0.75
+
+8.85Air quality is Good
+------------------------------------------------
+bhaskar is
+209948.00
+NO2
+44
+SO2
+27
+Air quality is Good
+
+4.C
+ERROR: Invalid requestDate must be in ISO-8601 'basic format'. Got 'TZ'. See http://en.wikipedia.org/wiki/ISO_8601
+Vo=404.79mV, DustDensity=6.81ug/m3
+Temperature = 27.77°C
+   Pressure = 969.41 hPa
+   Humidity = 38.05%
+        Gas = 231405R
+
+Air Quality = 98.7% derived from 25% of Humidity reading and 75% of Gas reading - 100% is good quality air
+Humidity element was : 0.24 of 0.25
+     Gas element was : 0.75 of 0.75
+
+6.26Air quality is Good
+------------------------------------------------
+bhaskar is
+223882.00
+NO2
+47
+SO2
+29
+Air quality is Good
+ERROR: Connection problem
+Vo=386.23mV, DustDensity=3.10ug/m3
+Temperature = 27.81°C
+   Pressure = 969.41 hPa
+   Humidity = 38.21%
+        Gas = 219279R
+
+Air Quality = 100.0% derived from 25% of Humidity reading and 75% of Gas reading - 100% is good quality air
+Humidity element was : 0.25 of 0.25
+     Gas element was : 0.75 of 0.75
+
+0.00Air quality is Good
+------------------------------------------------
+bhaskar is
+215280.00
+NO2
+45
+SO2
+27
+Air quality is Good
+ERROR: Invalid requestDate must be in ISO-8601 'basic format'. Got 'TZ'. See http://en.wikipedia.org/wiki/ISO_8601
+Vo=416.06mV, DustDensity=9.06ug/m3
+Temperature = 28.08°C
+   Pressure = 969.41 hPa
+   Humidity = 37.32%
+        Gas = 225871R
+
+Air Quality = 98.3% derived from 25% of Humidity reading and 75% of Gas reading - 100% is good quality air
+Humidity element was : 0.23 of 0.25
+     Gas element was : 0.75 of 0.75
+
+8.56Air quality is Good
+------------------------------------------------
+bhaskar is
+218265.00
+NO2
+45
+SO2
+28
+Air quality is Good
+
+5.A
+ERROR: Invalid requestDate must be in ISO-8601 'basic format'. Got 'TZ'. See http://en.wikipedia.org/wiki/ISO_8601
+Vo=402.15mV, DustDensity=6.28ug/m3
+Temperature = 28.12°C
+   Pressure = 968.94 hPa
+   Humidity = 37.83%
+        Gas = 237217R
+
+Air Quality = 98.6% derived from 25% of Humidity reading and 75% of Gas reading - 100% is good quality air
+Humidity element was : 0.24 of 0.25
+     Gas element was : 0.75 of 0.75
+
+Getting a new gas reference value
+7.11Air quality is Good
+------------------------------------------------
+bhaskar is
+263710.00
+NO2
+55
+SO2
+34
+Air quality is Good
+ERROR: Invalid requestDate must be in ISO-8601 'basic format'. Got 'TZ'. See http://en.wikipedia.org/wiki/ISO_8601
+Vo=431.05mV, DustDensity=12.06ug/m3
+Temperature = 28.57°C
+   Pressure = 968.94 hPa
+   Humidity = 36.70%
+        Gas = 252819R
+
+Air Quality = 97.9% derived from 25% of Humidity reading and 75% of Gas reading - 100% is good quality air
+Humidity element was : 0.23 of 0.25
+     Gas element was : 0.75 of 0.75
+
+10.33Air quality is Good
+------------------------------------------------
+bhaskar is
+242792.00
+NO2
+50
+SO2
+31
+Air quality is Good
+ERROR: Invalid requestDate must be in ISO-8601 'basic format'. Got 'TZ'. See http://en.wikipedia.org/wiki/ISO_8601
+Vo=415.48mV, DustDensity=8.95ug/m3
+Temperature = 28.28°C
+   Pressure = 968.96 hPa
+   Humidity = 37.09%
+        Gas = 241374R
+
+Air Quality = 98.2% derived from 25% of Humidity reading and 75% of Gas reading - 100% is good quality air
+Humidity element was : 0.23 of 0.25
+     Gas element was : 0.75 of 0.75
+
+8.85Air quality is Good
+------------------------------------------------
+bhaskar is
+230759.00
+NO2
+48
+SO2
+29
+Air quality is Good
+
+5.B
+ERROR: Invalid requestDate must be in ISO-8601 'basic format'. Got 'TZ'. See http://en.wikipedia.org/wiki/ISO_8601
+Vo=420.36mV, DustDensity=9.92ug/m3
+Temperature = 28.39°C
+   Pressure = 968.96 hPa
+   Humidity = 38.91%
+        Gas = 226490R
+
+Air Quality = 100.0% derived from 25% of Humidity reading and 75% of Gas reading - 100% is good quality air
+Humidity element was : 0.25 of 0.25
+     Gas element was : 0.75 of 0.75
+
+0.00Air quality is Good
+------------------------------------------------
+bhaskar is
+216833.00
+NO2
+45
+SO2
+28
+Air quality is Good
+ERROR: Connection problem
+Vo=376.81mV, DustDensity=1.21ug/m3
+Temperature = 28.35°C
+   Pressure = 968.98 hPa
+   Humidity = 40.13%
+        Gas = 208229R
+
+Air Quality = 100.0% derived from 25% of Humidity reading and 75% of Gas reading - 100% is good quality air
+Humidity element was : 0.25 of 0.25
+     Gas element was : 0.75 of 0.75
+
+0.00Air quality is Good
+------------------------------------------------
+bhaskar is
+205510.00
+NO2
+43
+SO2
+26
+Air quality is Good
+ERROR: Connection problem
+Vo=361.72mV, DustDensity=0.00ug/m3
+Temperature = 28.51°C
+   Pressure = 968.96 hPa
+   Humidity = 39.08%
+        Gas = 206796R
+
+Air Quality = 100.0% derived from 25% of Humidity reading and 75% of Gas reading - 100% is good quality air
+Humidity element was : 0.25 of 0.25
+     Gas element was : 0.75 of 0.75
+
+0.00Air quality is Good
+------------------------------------------------
+bhaskar is
+202613.00
+NO2
+42
+SO2
+26
+Air quality is Good
+
+ 
+
+3RD FLOOR LEFT FIRST
+
+
+
+
+
+
